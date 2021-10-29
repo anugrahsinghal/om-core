@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.fpl.onematrix
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, cache-caffeine, data, data-jpa, flyway, h2, hibernate-validator, http-client, java, java-application, jdbc-hikari, junit, lombok, maven, readme, shade, slf4j-simple, spring, spring-boot, spring-data-jpa, testcontainers, tomcat-server, yaml ]
